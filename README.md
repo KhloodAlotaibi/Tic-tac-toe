@@ -12,3 +12,5 @@ App Features:
 - جمع النقاط 
 
 App Preview: 
+
+<img width="311" alt="1" src="https://user-images.githubusercontent.com/63094564/103334024-0e889200-4a81-11eb-8083-596c25b29b6c.png">
